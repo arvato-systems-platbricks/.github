@@ -2,6 +2,7 @@
 
 ## What does this PR do?
 <!--- Describe your changes in detail -->
+<!--- Tip: You can auto-generate this with with Copilot-Icon from the toolbar above.  -->
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
